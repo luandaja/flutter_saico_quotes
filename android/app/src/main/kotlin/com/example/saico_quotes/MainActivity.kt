@@ -1,4 +1,4 @@
-package com.example.saico_quotes
+package com.luansoftlutions.saico_quotes
 
 import android.os.Bundle
 
